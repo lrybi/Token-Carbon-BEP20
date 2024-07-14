@@ -1,5 +1,5 @@
 
-Token Carbon BEP20
+Token Carbon Credit
 
 
 
